@@ -1,0 +1,12 @@
+{
+  "name": "statusline",
+  "description": "Claude Code statusline showing model, version, context %, tokens, and code changes",
+  "version": "1.0.0",
+  "author": {
+    "name": "slo-oww"
+  },
+  "homepage": "https://github.com/slo-oww/claude-code-statusline",
+  "repository": "https://github.com/slo-oww/claude-code-statusline",
+  "license": "MIT",
+  "keywords": ["statusline", "claude-code", "ui"]
+}

@@ -1,0 +1,14 @@
+{
+  "name": "slo-oww-claude-code-statusline",
+  "description": "Custom Claude Code statusline showing model, version, context %, tokens, and code changes",
+  "owner": {
+    "name": "slo-oww"
+  },
+  "plugins": [
+    {
+      "name": "statusline",
+      "source": "./plugins/statusline",
+      "description": "Statusline script + setup helpers (main statusLine must be wired manually — see plugin README)"
+    }
+  ]
+}
